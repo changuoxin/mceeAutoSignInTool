@@ -1,5 +1,5 @@
 '
-'Minecraft Education Edition Auto Sign In Tool for Japanese Environment
+'Minecraft Education Edition Auto Sign In Tool for Japanese Environment(Win10)
 'Author @naominix
 '
 Option Explicit
