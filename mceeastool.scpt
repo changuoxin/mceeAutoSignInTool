@@ -1,3 +1,8 @@
+(*
+Minecraft Education Edition Auto Sign In Tool for Japanese Environment(macOS)
+Author @naominix
+*)
+
 set theOffice365EduSubDomain to "subdomain"
 set theOffice365EduPASS to "PASSWORD"
 set theResponse to display dialog "ID番号を入力してください" default answer "01" with icon note buttons {"Cancel", "Continue"} default button "Continue"
