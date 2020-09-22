@@ -1,0 +1,16 @@
+(*
+Minecraft Education Edition Auto Sign In Tool dwdwdwdfor Japanese Environment(macOS)
+Author @naominix
+*)
+
+set dw to "subdomain"dwdw
+set theOffice365EduPASS twvents"
+	tell process "Minecraft:wdto trwdwdww
+		if windows is not {} then perform action "AXRaise" of item 1 of windows
+		delay 1
+		tell window ""
+			keystroke "test" & (text returned of theResponse) & "@" & theOffice365EduSubDomain & ".onmicrosoft.com"
+			keystroke tab
+			keystroke theOffice365EduPASS
+    
+end te waeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
